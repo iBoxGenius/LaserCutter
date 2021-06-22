@@ -1,0 +1,44 @@
+
+05/12/2018  08:11 AM            76,288 libgcc_s_seh-1.dll
+02/22/2021  07:04 PM           739,995 libopencv_aruco451.dll
+02/22/2021  06:46 PM         3,687,667 libopencv_calib3d451.dll
+02/22/2021  06:10 PM         7,448,341 libopencv_core451.dll
+02/22/2021  06:40 PM         1,602,538 libopencv_features2d451.dll
+02/22/2021  06:24 PM           973,983 libopencv_flann451.dll
+02/22/2021  06:16 PM           761,988 libopencv_highgui451.dll
+02/22/2021  06:16 PM         5,970,653 libopencv_imgcodecs451.dll
+02/22/2021  06:14 PM        11,776,808 libopencv_imgproc451.dll
+02/22/2021  06:16 PM           833,539 libopencv_videoio451.dll
+05/12/2018  08:11 AM         1,417,216 libstdc++-6.dll
+05/12/2018  08:11 AM            52,224 libwinpthread-1.dll
+11/06/2020  11:08 AM         8,185,968 Qt5Core.dll
+11/06/2020  11:08 AM         9,663,232 Qt5Gui.dll
+11/06/2020  12:06 PM         1,593,784 Qt5Multimedia.dll
+11/06/2020  12:06 PM           226,256 Qt5MultimediaWidgets.dll
+11/06/2020  11:08 AM         2,699,096 Qt5Network.dll
+11/06/2020  11:16 AM           156,872 Qt5SerialPort.dll
+11/06/2020  11:20 AM           580,088 Qt5Svg.dll
+11/06/2020  11:08 AM         8,662,160 Qt5Widgets.dll
+11/06/2020  11:08 AM           383,840 Qt5Xml.dll
+
+folder platforms
+11/06/2020  11:09 AM         3,034,808 qdirect2d.dll
+11/06/2020  11:09 AM         1,294,552 qminimal.dll
+11/06/2020  11:09 AM         1,088,912 qoffscreen.dll
+11/06/2020  12:04 PM         1,022,496 qwebgl.dll
+11/06/2020  11:09 AM         2,897,976 qwindows.dll
+
+folder plugins/imageformats
+11/06/2020  11:08 AM            80,248 qgif.dll
+11/06/2020  11:20 AM           100,272 qicns.dll
+11/06/2020  11:08 AM            83,856 qico.dll
+11/06/2020  11:08 AM           488,176 qjpeg.dll
+11/06/2020  11:20 AM            76,720 qsvg.dll
+11/06/2020  11:20 AM            74,400 qtga.dll
+11/06/2020  11:20 AM           529,056 qtiff.dll
+11/06/2020  11:20 AM            71,280 qwbmp.dll
+11/06/2020  11:20 AM           680,280 qwebp.dll
+
+folder plugins/mediaservice
+11/06/2020  12:06 PM         1,039,584 dsengine.dll
+11/06/2020  12:06 PM           174,832 qtmedia_audioengine.dll

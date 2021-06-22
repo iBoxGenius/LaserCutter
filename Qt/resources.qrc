@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/circ.svg</file>
+        <file>images/triangle.svg</file>
+        <file>images/surface.svg</file>
+        <file>images/iconWindow.png</file>
+        <file>images/Deer.svg</file>
+        <file>images/afrika-outline.svg</file>
+        <file>images/Beaver-Outline.svg</file>
+        <file>images/cloudSimple.svg</file>
+        <file>images/nicubunu_Bat_contour.svg</file>
+        <file>images/star.svg</file>
+        <file>images/working_girl.svg</file>
+        <file>images/dom.svg</file>
+    </qresource>
+</RCC>
